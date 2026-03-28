@@ -3,7 +3,7 @@
 > 📘 **Full case study & system design**  
 > This repository is part of a broader automation system.  
 > For full context, problem framing, and decisions see the case study:  
-> 👉 *[Making Transcript Knowledge Searchable with RAG](https://www.notion.so/Automating-Monthly-Radar-Execution-at-Scale-2fd53feedf9f80408644dc0c067f4d33?showMoveTo=true&saveParent=true](https://kaput-elm-8c7.notion.site/Making-Transcript-Knowledge-Searchable-with-RAG-33153feedf9f8050af5ed054464e2862))* (Notion)
+> 👉 *[Making Transcript Knowledge Searchable with RAG](https://kaput-elm-8c7.notion.site/Making-Transcript-Knowledge-Searchable-with-RAG-33153feedf9f8050af5ed054464e2862)* (Notion)
 
 ---
 
